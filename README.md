@@ -40,6 +40,7 @@ Champions BS was a multiplayer server for BombSquad active from 2023 to 2025, fo
 - Full Discord integration
 
 ![discord-bot](assets/discord-bot.jpg)
+![discord-bot2](assets/discord-bot2.jpg)
 
 ## 🎥 Trailers
 
